@@ -11,3 +11,9 @@ HTML e CSS: cabeçalho, footer e variáveis CSS;
 HTML e CSS: trabalhando com responsividade e publicação de projetos;
 
 
+Visite :
+
+https://modelo-portifolio-r0x391o84-fernanda-brazs-projects.vercel.app/index.html
+
+
+
